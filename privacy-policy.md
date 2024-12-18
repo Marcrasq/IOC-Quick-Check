@@ -30,6 +30,6 @@ Chrome encrypts local storage
 This privacy policy may be revised from time to time. The extension will inform users of any big changes via update process.
 
 ## Contact
-If you have any privacy concerns, just open an issue on our GitHub repository.
+If you have any privacy concerns, just open an issue on my GitHub repository.
 
 Last updated: 2024-12-17

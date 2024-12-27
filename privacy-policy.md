@@ -13,8 +13,8 @@ The IOC Quick-Check extension collects and uses the following limited data:
 
 ## Data Storage
 - Your browser stores all user data locally
-- We don’t store any user data on our servers
-- Chrome’s storage API is used to securely store API keys
+- We don't store any user data on our servers
+- Chrome's storage API is used to securely store API keys
 
 ## Data Sharing
 - Only text and indicators selected are shared with VirusTotal for analysis
@@ -24,7 +24,7 @@ The IOC Quick-Check extension collects and uses the following limited data:
 ## Data Security
 - All API communications are made over secure HTTPS connections
 - There are no logs maintained of user analysis requests
-Chrome encrypts local storage
+- Chrome encrypts local storage
 
 ## Updates
 This privacy policy may be revised from time to time. The extension will inform users of any big changes via update process.
@@ -32,4 +32,4 @@ This privacy policy may be revised from time to time. The extension will inform 
 ## Contact
 If you have any privacy concerns, just open an issue on my GitHub repository.
 
-Last updated: 2024-12-17
+Last updated: 2024-12-27
